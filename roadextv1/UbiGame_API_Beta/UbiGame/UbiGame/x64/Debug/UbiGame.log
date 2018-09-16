@@ -1,0 +1,21 @@
+﻿  GameBoard.cpp
+c:\users\ld-razer\desktop\roadext\ubigame_api_beta\ubigame\ubigame\source\game\gameboard.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UbiGame.vcxproj -> C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\x64\Debug\UbiGame.exe
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\bg.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\click.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\face.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\finger.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\Flappy.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\particles.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\phone.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\phone2.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\phone2C.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\phonex.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\player.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\ring.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\tileset.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\trace.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\img\Untitled-3-01.png
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\snd\glassBreak.wav
+  C:\Users\LD-Razer\Desktop\roadext\UbiGame_API_Beta\UbiGame\UbiGame\Resources\snd\thunder.wav
+  17 File(s) copied
